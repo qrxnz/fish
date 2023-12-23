@@ -1,0 +1,2 @@
+# fish-config
+FIshShell configuration
