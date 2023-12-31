@@ -1,5 +1,5 @@
-# ____________       ______  
-# ___  __/__(_)_________  /_ 
+# ____________       ______
+# ___  __/__(_)_________  /_
 # __  /_ __  /__  ___/_  __ \
 # _  __/ _  / _(__  )_  / / /
 # /_/    /_/  /____/ /_/ /_/
@@ -14,12 +14,14 @@ set -x EDITOR nvim
 
 # Added Paths
 export PATH="$HOME/.cargo/bin:$PATH"
+export PATH="$HOME/go/bin:$PATH"
+
 export PICO_SDK_PATH="$HOME/Documents/picosdk/pico-sdk"
 
 # Aliases
 alias ls='eza -al --color=always --group-directories-first --icons'
 alias la='eza -a --color=always --group-directories-first --icons'
-alias ll='eza -l --color=always --group-directories-first --icons'  
+alias ll='eza -l --color=always --group-directories-first --icons'
 alias lt='eza -aT --color=always --group-directories-first --icons'
 alias l.="eza -a | grep -e '^\.'"
 
