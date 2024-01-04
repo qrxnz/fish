@@ -9,8 +9,8 @@ FIshShell configuration
   - [patrickf1/fzf.fish](https://github.com/PatrickF1/fzf.fish)
 
 # Requirements
-- `fd`
-- `bat`
-- `fzf`
+- `fd`: [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
+- `bat`: [A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+- `fzf`: [A command-line fuzzy finder](https://github.com/junegunn/fzf)
 - `bash`
-- `neovim`
+- `neovim`:[Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
