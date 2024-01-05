@@ -1,5 +1,5 @@
-# fish-config
-FIshShell configuration
+# Demo
+
 
 # Installed plugins
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)
