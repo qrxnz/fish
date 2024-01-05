@@ -11,6 +11,7 @@ FIshShell configuration
 # Requirements
 - `fd`: [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 - `bat`: [A cat(1) clone with wings.](https://github.com/sharkdp/bat)
+- `eza`: [A modern, maintained replacement for ls](https://github.com/eza-community/eza)
 - `fzf`: [A command-line fuzzy finder](https://github.com/junegunn/fzf)
 - `bash`: [Bourne Again SHell](https://www.gnu.org/software/bash/)
-- `neovim`:[Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
+- `neovim`: [Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
