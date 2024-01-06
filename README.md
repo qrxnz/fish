@@ -2,11 +2,11 @@
 
 
 # Installed plugins
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher)
-  - [catppuccin/fish](https://github.com/catppuccin/fish)
-  - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish)
-  - [ilancosman/tide@v6](https://github.com/IlanCosman/tide)
-  - [patrickf1/fzf.fish](https://github.com/PatrickF1/fzf.fish)
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) -> A plugin manager for Fish
+  - [catppuccin/fish](https://github.com/catppuccin/fish) -> Soothing pastel theme for the Fish Shell
+  - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) -> Run Bash commands, replay changes in Fish 
+  - [ilancosman/tide@v6](https://github.com/IlanCosman/tide) -> The ultimate Fish prompt
+  - [patrickf1/fzf.fish](https://github.com/PatrickF1/fzf.fish) -> Fzf plugin for Fish
 
 # Requirements
 - `fd`: [A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
