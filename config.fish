@@ -5,7 +5,7 @@
 # /_/    /_/  /____/ /_/ /_/
 
 if status is-interactive
-    export _JAVA_AWT_WM_NONREPARENTING=1
+    #####
 end
 
 # Fish basics
