@@ -1,5 +1,5 @@
 # Demo
-
+![fish-demo](./fish.jpg)
 
 # Installed plugins
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) -> A plugin manager for Fish
